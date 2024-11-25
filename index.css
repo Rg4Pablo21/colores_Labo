@@ -1,0 +1,40 @@
+#root{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+
+
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+
+}
+.red{
+    background-color: red;
+}
+.blue{
+background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.pink{
+    background-color: pink;
+}
+.purple{
+    background-color: purple;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
+.gray{
+    background-color: gray;
+}
+.brown{
+    background-color: brown;
+}
